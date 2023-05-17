@@ -4,7 +4,7 @@ This repository contains all my personal code and notes as I work my way through
 
 ## About The Book
 
-"The C++ Programming Language" is written by the creator of C++, Bjarne Stroustrup. This book is widely regarded as the definitive reference for C++ programmers of all skill levels. The fourth edition of the book, which this repository is based upon, includes detailed information about the latest C++11 and C++14 standards.
+"The C++ Programming Language" is written by the creator of C++, Bjarne Stroustrup. This book is widely regarded as the definitive reference for C++ programmers of all skill levels. The fourth edition of the book, which this repository is based upon, includes detailed information about the latest C++11.
 
 ## Structure of the Repository
 
