@@ -1,0 +1,3 @@
+> initialization does not have type conversion
+> assignment does have type conversion
+    assigning int with double-expression will truncate double-expression post-compute b4 storing in said integer object
